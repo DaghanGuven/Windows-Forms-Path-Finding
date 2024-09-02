@@ -1,0 +1,10 @@
+C:\Users\pc\source\repos\pathFinding\pathFinding\bin\Debug\pathFinding.exe.config
+C:\Users\pc\source\repos\pathFinding\pathFinding\bin\Debug\pathFinding.exe
+C:\Users\pc\source\repos\pathFinding\pathFinding\bin\Debug\pathFinding.pdb
+C:\Users\pc\source\repos\pathFinding\pathFinding\obj\Debug\pathFinding.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\pathFinding\pathFinding\obj\Debug\pathFinding.Form1.resources
+C:\Users\pc\source\repos\pathFinding\pathFinding\obj\Debug\pathFinding.Properties.Resources.resources
+C:\Users\pc\source\repos\pathFinding\pathFinding\obj\Debug\pathFinding.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\pathFinding\pathFinding\obj\Debug\pathFinding.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\pathFinding\pathFinding\obj\Debug\pathFinding.exe
+C:\Users\pc\source\repos\pathFinding\pathFinding\obj\Debug\pathFinding.pdb
